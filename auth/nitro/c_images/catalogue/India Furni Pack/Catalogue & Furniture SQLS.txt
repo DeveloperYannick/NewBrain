@@ -1,0 +1,50 @@
+## Catalogue SQLS ##
+INSERT INTO `catalog_items` VALUES ('65000587', 'CATAID', '65000587', 'Archway', '5', '0', '0', '1', '0', '0', '1', '', '', '-1', '0', '0');
+INSERT INTO `catalog_items` VALUES ('65000588', 'CATAID', '65000588', 'Balcony Door', '5', '0', '0', '1', '0', '0', '1', '', '', '-1', '0', '0');
+INSERT INTO `catalog_items` VALUES ('65000589', 'CATAID', '65000589', 'Bead Bells', '5', '0', '0', '1', '0', '0', '1', '', '', '-1', '0', '0');
+INSERT INTO `catalog_items` VALUES ('65000590', 'CATAID', '65000590', 'Cloth', '5', '0', '0', '1', '0', '0', '1', '', '', '-1', '0', '0');
+INSERT INTO `catalog_items` VALUES ('65000591', 'CATAID', '65000591', 'Curries', '5', '0', '0', '1', '0', '0', '1', '', '', '-1', '0', '0');
+INSERT INTO `catalog_items` VALUES ('65000592', 'CATAID', '65000592', 'Dessert', '5', '0', '0', '1', '0', '0', '1', '', '', '-1', '0', '0');
+INSERT INTO `catalog_items` VALUES ('65000593', 'CATAID', '65000593', 'Dye', '5', '0', '0', '1', '0', '0', '1', '', '', '-1', '0', '0');
+INSERT INTO `catalog_items` VALUES ('65000594', 'CATAID', '65000594', 'Elepehant Seat', '5', '0', '0', '1', '0', '0', '1', '', '', '-1', '0', '0');
+INSERT INTO `catalog_items` VALUES ('65000595', 'CATAID', '65000595', 'Elephant Table', '5', '0', '0', '1', '0', '0', '1', '', '', '-1', '0', '0');
+INSERT INTO `catalog_items` VALUES ('65000596', 'CATAID', '65000596', 'Flower Bell Decoration', '5', '0', '0', '1', '0', '0', '1', '', '', '-1', '0', '0');
+INSERT INTO `catalog_items` VALUES ('65000597', 'CATAID', '65000597', 'Incense', '5', '0', '0', '1', '0', '0', '1', '', '', '-1', '0', '0');
+INSERT INTO `catalog_items` VALUES ('65000598', 'CATAID', '65000598', 'Jewellery Box', '5', '0', '0', '1', '0', '0', '1', '', '', '-1', '0', '0');
+INSERT INTO `catalog_items` VALUES ('65000599', 'CATAID', '65000599', 'Light', '5', '0', '0', '1', '0', '0', '1', '', '', '-1', '0', '0');
+INSERT INTO `catalog_items` VALUES ('65000600', 'CATAID', '65000600', 'Long Pillow', '5', '0', '0', '1', '0', '0', '1', '', '', '-1', '0', '0');
+INSERT INTO `catalog_items` VALUES ('65000601', 'CATAID', '65000601', 'Palm Vase', '5', '0', '0', '1', '0', '0', '1', '', '', '-1', '0', '0');
+INSERT INTO `catalog_items` VALUES ('65000602', 'CATAID', '65000602', 'Sewing Machine', '5', '0', '0', '1', '0', '0', '1', '', '', '-1', '0', '0');
+INSERT INTO `catalog_items` VALUES ('65000603', 'CATAID', '65000603', 'Sofa', '5', '0', '0', '1', '0', '0', '1', '', '', '-1', '0', '0');
+INSERT INTO `catalog_items` VALUES ('65000604', 'CATAID', '65000604', 'Sunset Wall Background', '5', '0', '0', '1', '0', '0', '1', '', '', '-1', '0', '0');
+INSERT INTO `catalog_items` VALUES ('65000605', 'CATAID', '65000605', 'Tea Set', '5', '0', '0', '1', '0', '0', '1', '', '', '-1', '0', '0');
+INSERT INTO `catalog_items` VALUES ('65000606', 'CATAID', '65000606', 'Tiled Floor', '5', '0', '0', '1', '0', '0', '1', '', '', '-1', '0', '0');
+INSERT INTO `catalog_items` VALUES ('65000607', 'CATAID', '65000607', 'Sultan Throne', '5', '0', '0', '1', '0', '0', '1', '', '', '-1', '0', '0');
+INSERT INTO `catalog_items` VALUES ('65000608', 'CATAID', '65000608', 'Bengal Tiger', '5', '0', '0', '1', '0', '0', '1', '', '', '-1', '0', '0');
+INSERT INTO `catalog_items` VALUES ('65000609', 'CATAID', '65000609', 'Exotic Tent', '5', '0', '0', '1', '0', '0', '1', '', '', '-1', '0', '0');
+
+
+## Furniture SQLS ##
+INSERT INTO `furniture` VALUES ('65000587', 'india_c20_archway', 'india_c20_archway', 's', '1', '2', '0', '1', '0', '0', '65000587', '1', '1', '1', '1', '1', 'default', '0', '0', '0', '0', '0', '0', '0', '0', '0');
+INSERT INTO `furniture` VALUES ('65000588', 'india_c20_balconydoor', 'india_c20_balconydoor', 's', '1', '2', '0', '1', '0', '0', '65000588', '1', '1', '1', '1', '1', 'default', '2', '0', '0', '0', '0', '0', '0', '0', '0');
+INSERT INTO `furniture` VALUES ('65000589', 'india_c20_beadbellsdeco', 'india_c20_beadbellsdeco', 's', '1', '1', '0', '1', '0', '1', '65000589', '1', '1', '1', '1', '1', 'default', '0', '0', '0', '0', '0', '0', '0', '0', '0');
+INSERT INTO `furniture` VALUES ('65000590', 'india_c20_cloth', 'india_c20_cloth', 's', '1', '1', '0', '1', '0', '0', '65000590', '1', '1', '1', '1', '1', 'default', '0', '0', '0', '0', '0', '0', '0', '0', '0');
+INSERT INTO `furniture` VALUES ('65000591', 'india_c20_curries', 'india_c20_curries', 's', '1', '1', '0', '1', '0', '0', '65000591', '1', '1', '1', '1', '1', 'default', '3', '0', '0', '0', '0', '0', '0', '0', '0');
+INSERT INTO `furniture` VALUES ('65000592', 'india_c20_dessert', 'india_c20_dessert', 's', '1', '1', '0', '1', '0', '0', '65000592', '1', '1', '1', '1', '1', 'default', '3', '0', '0', '0', '0', '0', '0', '0', '0');
+INSERT INTO `furniture` VALUES ('65000593', 'india_c20_dye', 'india_c20_dye', 's', '1', '1', '0', '1', '0', '0', '65000593', '1', '1', '1', '1', '1', 'default', '4', '0', '0', '0', '0', '0', '0', '0', '0');
+INSERT INTO `furniture` VALUES ('65000594', 'india_c20_eleseat', 'india_c20_eleseat', 's', '1', '1', '1', '1', '1', '0', '65000594', '1', '1', '1', '1', '1', 'default', '2', '0', '0', '0', '0', '0', '0', '0', '0');
+INSERT INTO `furniture` VALUES ('65000595', 'india_c20_eletable', 'india_c20_eletable', 's', '1', '1', '0', '1', '0', '0', '65000595', '1', '1', '1', '1', '1', 'default', '0', '0', '0', '0', '0', '0', '0', '0', '0');
+INSERT INTO `furniture` VALUES ('65000596', 'india_c20_flowerbelldeco', 'india_c20_flowerbelldeco', 's', '1', '1', '0', '1', '0', '1', '65000596', '1', '1', '1', '1', '1', 'default', '0', '0', '0', '0', '0', '0', '0', '0', '0');
+INSERT INTO `furniture` VALUES ('65000597', 'india_c20_incense', 'india_c20_incense', 's', '1', '1', '0', '1', '0', '0', '65000597', '1', '1', '1', '1', '1', 'default', '2', '0', '0', '0', '0', '0', '0', '0', '0');
+INSERT INTO `furniture` VALUES ('65000598', 'india_c20_jewellerybox', 'india_c20_jewellerybox', 's', '1', '1', '0', '1', '0', '0', '65000598', '1', '1', '1', '1', '1', 'default', '2', '0', '0', '0', '0', '0', '0', '0', '0');
+INSERT INTO `furniture` VALUES ('65000599', 'india_c20_light', 'india_c20_light', 's', '1', '1', '0', '1', '0', '1', '65000599', '1', '1', '1', '1', '1', 'default', '2', '0', '0', '0', '0', '0', '0', '0', '0');
+INSERT INTO `furniture` VALUES ('65000600', 'india_c20_longpillow', 'india_c20_longpillow', 's', '1', '2', '1', '1', '1', '0', '65000600', '1', '1', '1', '1', '1', 'default', '0', '0', '0', '0', '0', '0', '0', '0', '0');
+INSERT INTO `furniture` VALUES ('65000601', 'india_c20_palmvase', 'india_c20_palmvase', 's', '1', '1', '0', '1', '0', '0', '65000601', '1', '1', '1', '1', '1', 'default', '2', '0', '0', '0', '0', '0', '0', '0', '0');
+INSERT INTO `furniture` VALUES ('65000602', 'india_c20_sewingmachine', 'india_c20_sewingmachine', 's', '1', '1', '0', '1', '0', '0', '65000602', '1', '1', '1', '1', '1', 'default', '0', '0', '0', '0', '0', '0', '0', '0', '0');
+INSERT INTO `furniture` VALUES ('65000603', 'india_c20_sofa', 'india_c20_sofa', 's', '2', '1', '1.2', '1', '1', '0', '65000603', '1', '1', '1', '1', '1', 'default', '0', '0', '0', '0', '0', '0', '0', '0', '0');
+INSERT INTO `furniture` VALUES ('65000604', 'india_c20_sunsetbg', 'india_c20_sunsetbg', 'i', '1', '1', '0', '1', '0', '0', '65000604', '1', '1', '1', '1', '1', 'default', '4', '0', '0', '0', '0', '0', '0', '0', '0');
+INSERT INTO `furniture` VALUES ('65000605', 'india_c20_teaset', 'india_c20_teaset', 's', '1', '1', '0', '1', '0', '0', '65000605', '1', '1', '1', '1', '1', 'default', '4', '0', '0', '0', '0', '0', '0', '0', '0');
+INSERT INTO `furniture` VALUES ('65000606', 'india_c20_tiledfloor', 'india_c20_tiledfloor', 's', '2', '2', '0', '1', '0', '1', '65000606', '1', '1', '1', '1', '1', 'default', '0', '0', '0', '0', '0', '0', '0', '0', '0');
+INSERT INTO `furniture` VALUES ('65000607', 'india_ltd20_sultanthrone', 'india_ltd20_sultanthrone', 's', '1', '1', '1.5', '1', '1', '0', '65000607', '1', '1', '1', '1', '1', 'default', '0', '0', '0', '0', '0', '0', '0', '0', '0');
+INSERT INTO `furniture` VALUES ('65000608', 'india_r20_bengaltiger', 'india_r20_bengaltiger', 's', '1', '1', '0', '1', '0', '0', '65000608', '1', '1', '1', '1', '1', 'default', '2', '0', '0', '0', '0', '0', '0', '0', '0');
+INSERT INTO `furniture` VALUES ('65000609', 'india_r20_exotictent', 'india_r20_exotictent', 's', '2', '2', '0.6', '1', '1', '0', '65000609', '1', '1', '1', '1', '1', 'default', '4', '0', '0', '0', '0', '0', '0', '0', '0');
