@@ -1,2 +1,0 @@
-# NewBrain
-Habbo NewBrain Cms
